@@ -33,7 +33,7 @@ To get a local copy of the repository for development and testing purposes, foll
       git clone https://github.com/AliDeli80/getting-informations.git  
 2. Navigate to the project directory:
   ```bash
-  cd your-repo-name
+  cd getting-informations
  ```
 3. Install the dependencies:
   ```bash
