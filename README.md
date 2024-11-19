@@ -31,12 +31,12 @@ To get a local copy of the repository for development and testing purposes, foll
 1. Clone the repository:  
    ```bash  
    git clone https://github.com/AliDeli80/getting-informations.git  
-Navigate to the project directory:
+2. Navigate to the project directory:
 
   ```bash
   cd your-repo-name
 ```
-## Install the dependencies:
+3. Install the dependencies:
 
   ```bash
   npm install
