@@ -32,32 +32,27 @@ To get a local copy of the repository for development and testing purposes, foll
    ```bash  
    git clone https://github.com/AliDeli80/getting-informations.git  
 2. Navigate to the project directory:
-
   ```bash
-  cd your-repo-name
-```
+     cd your-repo-name
+   ```
 3. Install the dependencies:
-
   ```bash
-  npm install
-```
+     npm install
+   ```
 or
-
   ```bash
-  yarn install
-```
+     yarn install
+   ```
   
 ## Running the Application
 To run the application in development mode, use:
-
   ```bash
-  npm start
-```  
+     npm start
+   ```  
 or
-
   ```bash
-  yarn start
-```
+     yarn start
+   ```
   
 The application will be accessible at http://localhost:3000 in your browser.
 
@@ -70,16 +65,16 @@ Contributions are welcome! Please follow these steps:
 1. Fork the repository.
 2. Create your feature branch:
   ```bash
-git checkout -b feature/YourFeature
-``` 
+      git checkout -b feature/YourFeature
+   ``` 
 3. Commit your changes:
   ```bash
-  git commit -m "Add some feature"
-```  
+     git commit -m "Add some feature"
+   ```  
 4. Push to the branch:
   ```bash
-  git push origin feature/YourFeature
-```  
+     git push origin feature/YourFeature
+   ```  
 5. Open a Pull Request.
 
 ## License
